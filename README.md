@@ -32,5 +32,5 @@ Analyze **Flipkart’s customer call data** to understand how **customer service
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
